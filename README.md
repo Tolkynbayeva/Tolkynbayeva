@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Tolganay 👋🏽
+
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tolganay-tolkynbayeva-4b0a69210/). 
 
 <!--
 **Tolkynbayeva/Tolkynbayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
