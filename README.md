@@ -2,7 +2,7 @@
 
  <img src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.png" alt="warioddly gitgub header image"/>
 
- ### Hi, I'm Tolganay 👋🏽
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+Tolganay;)](https://git.io/typing-svg)
 
 </div>
 
