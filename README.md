@@ -2,14 +2,27 @@
 
  <img src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.png" alt="warioddly gitgub header image"/>
 
+ ### Hi, I'm Tolganay 👋🏽
+
 </div>
 
-### Hi, I'm Tolganay 👋🏽
 
-
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tolganay-tolkynbayeva-4b0a69210/). 
+<div id="badges" align="center">
+  
+  ### Contact Me
+ 
+   <a href="https://www.linkedin.com/in/tolganay-tolkynbayeva-4b0a69210/" target="_new">
+      <img src="https://img.shields.io/badge/Linkedin-Tolganay-blue?logo=Linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto: workfortime37@gmail.com" target="_new">
+    <img src="https://img.shields.io/badge/Gmail-Tolganay-red?logo=Gmail" alt="Gmail"/>
+  </a>
+  
+  <a href="https://leetcode.com/workfortime37/" target="_new">
+    <img src="https://img.shields.io/badge/leetcode-Tolganay-yellow?logo=LeetCode" alt="LeetCode"/>
+  </a>
+  
+</div>
 
 <!--
 **Tolkynbayeva/Tolkynbayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
