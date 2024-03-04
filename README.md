@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/workfortime37/" target="_new">
     <img src="https://img.shields.io/badge/leetcode-Tolganay-yellow?logo=LeetCode" alt="LeetCode"/>
   </a>
-  <img src="https://img.shields.io/github/commit-activity/m/Tolkynbayeva/Tolkynbayeva?label=Activity" alt="GitHub Activity"/>
+  <img src="https://komarev.com/ghpvc/?username=Tolkynbayeva&color=green" alt="Profile views"/>
   
 </div>
 
