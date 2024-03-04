@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+ <img src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.png" alt="warioddly gitgub header image"/>
+
+</div>
+
 ### Hi, I'm Tolganay 👋🏽
 
 
