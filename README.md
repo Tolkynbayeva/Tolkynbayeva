@@ -6,20 +6,9 @@
 
 </div>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
- <img src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/>
-</a>
-
-[![Typing SVG](https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord)
-[![Typing SVG](https://leetcard.jacoblin.cool/workfortime37?theme=nord)
-<a href="ссылка_на_leetcode">
-  <img src="https://leetcard.jacoblin.cool/workfortime37?theme=nord" alt="Typing SVG" height="215px">
-</a>
-
-<div>
-  <img style="height: 215px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord", src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/>
-<!--  <img style="height: 215px;" src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/> -->
+<div align="center">
+  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
+ <img style="height: 160px;" src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/>
 </div>
 
 
