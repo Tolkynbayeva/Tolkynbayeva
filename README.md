@@ -6,6 +6,13 @@
 
 </div>
 
+<a style="width: 50%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
+</a>
+<a style="width: 50%" href="https://leetcard.jacoblin.cool/workfortime37?theme=nord">
+ <img src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/>
+</a>
+
 [![Typing SVG](https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord)
 [![Typing SVG](https://leetcard.jacoblin.cool/workfortime37?theme=nord)
 <a href="ссылка_на_leetcode">
