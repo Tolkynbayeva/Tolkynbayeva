@@ -7,6 +7,7 @@
 </div>
 
 [![Typing SVG](https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord)
+[![Typing SVG](https://leetcard.jacoblin.cool/workfortime37?theme=nord)
 <a href="ссылка_на_leetcode">
   <img src="https://leetcard.jacoblin.cool/workfortime37?theme=nord" alt="Typing SVG" height="215px">
 </a>
