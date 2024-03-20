@@ -6,7 +6,7 @@
 
 </div>
 
-<div style="display: flex;">
+<div align="justify">
   <img style="height: 215px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
  <img style="height: 215px;" src="https://leetcard.jacoblin.cool/workfortime37?theme=nord"/>
 </div>
