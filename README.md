@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut"/>
 </div>
 
 
