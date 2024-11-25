@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
- <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
  <img style="height: 160px;" src="https://leetcard.jacoblin.cool/workfortime?theme=nord"/>
+ <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkynbayeva&layout=donut&theme=nord"/>
 </div>
 
 
