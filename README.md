@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- <img src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.png" alt="warioddly gitgub header image"/>
+ <img style="height: 340px; width: 100%; object-fit: cover;" src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.jpeg" alt="warioddly gitgub header image"/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+Tolganay;)](https://git.io/typing-svg)
 
